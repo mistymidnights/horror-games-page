@@ -150,7 +150,7 @@ const convertToHTML = (element, container) => {
         <div class="gallery-img-container">
             <img class="gallery-img" src="${element.image}" alt="${element.name}">
         </div>
-        <h3>${element.plataforms}</h3>
+        <h3>${element.Plataforms}</h3>
     </div>
 `
 //imprimir en el doc
