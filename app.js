@@ -114,7 +114,7 @@ const games2k10 = [
         name: 'MADiSON',
         year: 2022,
         Plataforms: 'PlayStation 4, PlayStation 5, Xbox One, Nintendo Switch, Xbox Series X y Series S, Microsoft Windows',
-        image: 'https://scontent-mad1-1.xx.fbcdn.net/v/t39.30808-6/256775543_1984544378372098_6675026593701147697_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=PrmhSQJFqeoAX9Sieag&_nc_ht=scontent-mad1-1.xx&oh=00_AT-sizla6zPAAwn-L_RlXS26095htEKYFzpXiZfrr_V4WA&oe=62DAEF04',
+        image: 'https://media.discordapp.net/attachments/701164137081733201/1002585168416088134/unknown.png?width=519&height=645',
     },
     {
         name: 'Friday the 13th: The Game',
